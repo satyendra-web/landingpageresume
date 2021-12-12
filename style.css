@@ -143,8 +143,8 @@
         
         #home .content h1 {
             font-size: 12.5vw;
-            font-weight: 900;
-            font-family: Garamond;
+            font-weight: 800;
+            font-family: sans-serif;
             line-height: 1em;
             -webkit-background-clip: text;
             background-clip: text;
